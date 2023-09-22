@@ -1,0 +1,11 @@
+{
+	"id": "encode-for-recall",
+	"name": "Encode for Recall",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Encode for Recall is a plugin for Obsidian that allows you to encode your notes by swapping letters with an underscore for better recall.",
+	"author": "Brad Gaddis",
+	"authorUrl": "github.com/bradgaddis",
+	"fundingUrl": "https://www.buymeacoffee.com/bradleygaddis",
+	"isDesktopOnly": false
+}
